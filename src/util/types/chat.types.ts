@@ -1,0 +1,1 @@
+export type MessageStatus = 'WAITING' | 'SENDED' | 'RECEIVED' | 'VIEWED'; 

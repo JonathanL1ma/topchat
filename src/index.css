@@ -1,0 +1,8 @@
+@import '../node_modules/normalize.css/normalize.css';
+
+:root {
+    --primary-color: #006a71;
+    --secondart-color: #d3de32;
+    --tertiary-color: #cbeaed;
+    --gray-color: #ffffdd;
+}
